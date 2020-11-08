@@ -14,8 +14,8 @@
 
 .box-header
 {
-	border-bottom-left-radius:20px;
-	border-bottom-right-radius:20px;
+	border-bottom-left-radius:100px;
+	border-bottom-right-radius:100px;
 	margin-bottom:4px;
 }
 .box-footer

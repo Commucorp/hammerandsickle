@@ -82,6 +82,8 @@
 
 .thing
 {
+	width:100px;
+	height:100px;
 	display:inline-block;
 	padding:0px;
 	margin:2px;
